@@ -4,12 +4,9 @@ We propose a novel progressive global-local shape transformation network (ProGL-
 
 ## Environment
 The code was developed and tested under the following environment:
-- Operating system: Linux
 - Python: 3.10.14
 - CUDA: 11.7
 - PyTorch: 1.13.0
-- TorchVision: 0.14.0
-- TorchAudio: 0.13.0
 - PyTorch3D: 0.7.5
 - NumPy: 1.26.4
 - SciPy: 1.14.0
@@ -17,7 +14,6 @@ The code was developed and tested under the following environment:
 - Matplotlib: 3.8.4
 - Trimesh: 4.6.6
 - PyTorch Lightning: 1.8.0
-- TensorBoard: 2.17.0
 - tqdm: 4.66.4
 
 ## Code is coming soon...
